@@ -14,6 +14,17 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-Lez_Drink-Lez_DrinkTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-Lez_Drink-Lez_DrinkTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		8EDB67B747D24A4B9E834529 /* CircularStd-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 910AD68CA6054CF2B43C5A11 /* CircularStd-Bold.ttf */; };
+		CB5462EED06F43E3A38723BF /* NeonOverdriveItalic-nwRJ.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 637F7196DE664D60B7C9FC86 /* NeonOverdriveItalic-nwRJ.ttf */; };
+		04F8ED8744F24345998CB7D9 /* Outfit-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F11A80E04916447EA6D28A76 /* Outfit-Bold.ttf */; };
+		0BB4EE6E50424FA0A026C6ED /* Outfit-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96D2CDABD9E64843BEAB43C9 /* Outfit-Medium.ttf */; };
+		D4F392360324473195E022F7 /* Outfit-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B6F6C4A9A44144B8852FDF28 /* Outfit-Regular.ttf */; };
+		FA530DD1CDF74DF5A87BB343 /* Outfit-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 37E3C76028334E88ADD933BA /* Outfit-SemiBold.ttf */; };
+		0DBC23F3361F4672A636A6C9 /* Oxanium-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3311F707C24041A2AEA1EFFC /* Oxanium-VariableFont_wght.ttf */; };
+		A3B63B1C67EF43DDBD100D12 /* RobotoCondensed-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2FE051EFB6304E5697485CF7 /* RobotoCondensed-Regular.ttf */; };
+		7C91FB273E9946D385A4F96F /* Rubik-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D0C2D4C967B948FC8F902024 /* Rubik-Medium.ttf */; };
+		82B77B642B214C3FAE5E6B60 /* Rubik-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 84C3D40AD00748879BE1757A /* Rubik-Regular.ttf */; };
+		C6F7BF60D2304168BA7E6C69 /* index.js in Resources */ = {isa = PBXBuildFile; fileRef = C32EC40DA64749C784DE3982 /* index.js */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +55,17 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Lez_Drink/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-Lez_Drink-Lez_DrinkTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Lez_Drink-Lez_DrinkTests.release.xcconfig"; path = "Target Support Files/Pods-Lez_Drink-Lez_DrinkTests/Pods-Lez_Drink-Lez_DrinkTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		910AD68CA6054CF2B43C5A11 /* CircularStd-Bold.ttf */ = {isa = PBXFileReference; name = "CircularStd-Bold.ttf"; path = "../src/assets/fonts/CircularStd-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		637F7196DE664D60B7C9FC86 /* NeonOverdriveItalic-nwRJ.ttf */ = {isa = PBXFileReference; name = "NeonOverdriveItalic-nwRJ.ttf"; path = "../src/assets/fonts/NeonOverdriveItalic-nwRJ.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F11A80E04916447EA6D28A76 /* Outfit-Bold.ttf */ = {isa = PBXFileReference; name = "Outfit-Bold.ttf"; path = "../src/assets/fonts/Outfit-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		96D2CDABD9E64843BEAB43C9 /* Outfit-Medium.ttf */ = {isa = PBXFileReference; name = "Outfit-Medium.ttf"; path = "../src/assets/fonts/Outfit-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B6F6C4A9A44144B8852FDF28 /* Outfit-Regular.ttf */ = {isa = PBXFileReference; name = "Outfit-Regular.ttf"; path = "../src/assets/fonts/Outfit-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		37E3C76028334E88ADD933BA /* Outfit-SemiBold.ttf */ = {isa = PBXFileReference; name = "Outfit-SemiBold.ttf"; path = "../src/assets/fonts/Outfit-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3311F707C24041A2AEA1EFFC /* Oxanium-VariableFont_wght.ttf */ = {isa = PBXFileReference; name = "Oxanium-VariableFont_wght.ttf"; path = "../src/assets/fonts/Oxanium-VariableFont_wght.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2FE051EFB6304E5697485CF7 /* RobotoCondensed-Regular.ttf */ = {isa = PBXFileReference; name = "RobotoCondensed-Regular.ttf"; path = "../src/assets/fonts/RobotoCondensed-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D0C2D4C967B948FC8F902024 /* Rubik-Medium.ttf */ = {isa = PBXFileReference; name = "Rubik-Medium.ttf"; path = "../src/assets/fonts/Rubik-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		84C3D40AD00748879BE1757A /* Rubik-Regular.ttf */ = {isa = PBXFileReference; name = "Rubik-Regular.ttf"; path = "../src/assets/fonts/Rubik-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C32EC40DA64749C784DE3982 /* index.js */ = {isa = PBXFileReference; name = "index.js"; path = "../src/assets/fonts/index.js"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +144,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				8A64D3A2D71845E683C3AB22 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -147,6 +170,25 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		8A64D3A2D71845E683C3AB22 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				910AD68CA6054CF2B43C5A11 /* CircularStd-Bold.ttf */,
+				637F7196DE664D60B7C9FC86 /* NeonOverdriveItalic-nwRJ.ttf */,
+				F11A80E04916447EA6D28A76 /* Outfit-Bold.ttf */,
+				96D2CDABD9E64843BEAB43C9 /* Outfit-Medium.ttf */,
+				B6F6C4A9A44144B8852FDF28 /* Outfit-Regular.ttf */,
+				37E3C76028334E88ADD933BA /* Outfit-SemiBold.ttf */,
+				3311F707C24041A2AEA1EFFC /* Oxanium-VariableFont_wght.ttf */,
+				2FE051EFB6304E5697485CF7 /* RobotoCondensed-Regular.ttf */,
+				D0C2D4C967B948FC8F902024 /* Rubik-Medium.ttf */,
+				84C3D40AD00748879BE1757A /* Rubik-Regular.ttf */,
+				C32EC40DA64749C784DE3982 /* index.js */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -244,6 +286,17 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				8EDB67B747D24A4B9E834529 /* CircularStd-Bold.ttf in Resources */,
+				CB5462EED06F43E3A38723BF /* NeonOverdriveItalic-nwRJ.ttf in Resources */,
+				04F8ED8744F24345998CB7D9 /* Outfit-Bold.ttf in Resources */,
+				0BB4EE6E50424FA0A026C6ED /* Outfit-Medium.ttf in Resources */,
+				D4F392360324473195E022F7 /* Outfit-Regular.ttf in Resources */,
+				FA530DD1CDF74DF5A87BB343 /* Outfit-SemiBold.ttf in Resources */,
+				0DBC23F3361F4672A636A6C9 /* Oxanium-VariableFont_wght.ttf in Resources */,
+				A3B63B1C67EF43DDBD100D12 /* RobotoCondensed-Regular.ttf in Resources */,
+				7C91FB273E9946D385A4F96F /* Rubik-Medium.ttf in Resources */,
+				82B77B642B214C3FAE5E6B60 /* Rubik-Regular.ttf in Resources */,
+				C6F7BF60D2304168BA7E6C69 /* index.js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
